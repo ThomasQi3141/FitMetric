@@ -6,8 +6,9 @@ More updates to come! <br />
 
 ### Screenshots: <br />
 
-<img width="415" alt="Screenshot 2024-02-28 at 11 53 44 PM" src="https://github.com/ThomasQi3141/FitMetric/assets/131242218/b1fe251b-0e95-4785-9ddf-a68575a001da">
 <img width="415" alt="Screenshot 2024-02-28 at 11 51 26 PM" src="https://github.com/ThomasQi3141/FitMetric/assets/131242218/63d0123a-2eaf-4746-90d0-7cea200ce8b2">
+<img width="398" alt="Screenshot 2024-02-28 at 11 53 44 PM" src="https://github.com/ThomasQi3141/FitMetric/assets/131242218/b1fe251b-0e95-4785-9ddf-a68575a001da">
+
 
 
 
