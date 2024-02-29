@@ -1,6 +1,6 @@
 <h2>FitMetric</h2></br>
 
-FitMetric is a tool created for everyone hoping to gain a deeper understanding on the statistics of their body weight. Built using Swift, SwiftUI, and Firebase, this iOS app comes with a robust user-authentication/profile system. It uses an OLS regression model to provide users with a predicted weight, and provides users with daily notifications to remind them to weigh themselves. 
+FitMetric is a tool created for everyone hoping to gain a deeper understanding of the statistics of their body weight. Built using Swift, SwiftUI, and Firebase, this iOS app comes with a robust user-authentication/profile system. It uses an OLS regression model to provide users with a predicted weight.
 
 ### Tools/Technologies Used: <br/>
 <ul>
