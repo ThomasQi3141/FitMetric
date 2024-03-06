@@ -1,4 +1,4 @@
-<h2>FitMetric</h2></br>
+<h2>FitMetric</h2>
 
 FitMetric is an iOS app created for everyone hoping to gain a deeper understanding of the statistics of their body weight, from gym rats to the average person. Built using Swift, SwiftUI, and Firebase, this iOS app comes with a robust user-authentication/profile system. It uses an OLS regression model to provide users with a predicted weight, alongside a suite of other handy statistics. <br />
 
